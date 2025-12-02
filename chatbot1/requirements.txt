@@ -1,0 +1,14 @@
+cat > requirements.txt <<'REQ'
+flask
+flask-cors
+python-dotenv
+groq
+textblob
+nltk
+vaderSentiment
+transformers
+torch
+huggingface_hub
+requests
+gunicorn
+REQ
