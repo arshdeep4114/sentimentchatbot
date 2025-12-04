@@ -1,7 +1,3 @@
-Here is a **clean, professional, submission-ready README.md** for your **Sentiment Analysis Chatbot** project.
-It includes: setup, installation, technologies used, explanation of sentiment logic, Tier 1 & Tier 2 compliance, model switching option, and usage instructions.
-
----
 
 # 📌 Sentiment Analysis Chatbot
 
@@ -191,35 +187,5 @@ Returns all messages + per-message sentiment.
 Starts a new chat session.
 
 All endpoints remain unchanged as required.
-
----
-
-# 🧪 Tests (Optional)
-
-You may create:
-
-* unit tests for SentimentAnalyzer
-* endpoint tests via pytest + Flask test client
-
----
-
-# ⭐ Optional Extra Credit (Already Implemented)
-
-* Mood trend graph (backend metrics ready)
-* Hybrid optimized model
-* Caching for real-time performance
-* Session manager with multiple conversations
-
----
-
-# 📞 Support / Viva Prep
-
-If asked in viva:
-
-* Explain hybrid model
-* Show trend + shift detection logic
-* Talk about performance optimizations
-* Mention modular architecture
-* Explain why you used Groq API instead of Gemini
 
 ---
